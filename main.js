@@ -4,8 +4,8 @@ $(document).ready(function () {
         width: 700,
         height: 600,
         nodeRadius: 3,
-        linkColor: '#ccc',
-        nodeColor: '#999',
+        linkColor: '#ddd',
+        nodeColor: '#ccc',
         toVisitNodeColor: '#ffbb42',
         visitedNodeColor: '#ff3300'
     };
